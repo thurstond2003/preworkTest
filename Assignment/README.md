@@ -1,4 +1,4 @@
-#preworkTest README
+#README for PreworkTest
 
 Use a h1 tag to make a title that reads as, "My Favorite Things"
 Below the h1 tag, add a image tag below the My Favorite Things title with an image of yourself
